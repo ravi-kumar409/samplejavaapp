@@ -1,4 +1,4 @@
 
-Sample Java Applicaiton V1.9.4
+Sample Java Applicaiton V1.9.5
 
 
